@@ -1,7 +1,7 @@
 #  Wizardry-School-Admission-Prediction-ML-Classification
 
-Small machine learning project developed for the **Machine Learning I (NOVA IMS)** course.  
-The goal was to build a **predictive model** capable of determining whether a student would be admitted to a *school of magic* based on their profile and background. :contentReference[oaicite:1]{index=1}
+Machine learning project developed for the **Machine Learning I (NOVA IMS)** course.  
+The goal was to build a **predictive model** capable of determining whether a student would be admitted to a *school of magic* based on their profile and background. 
 
 ## Overview
 - Binary **classification** problem (admitted vs. rejected)
